@@ -1,8 +1,8 @@
 # Hi, I'm Giovanni :wave::man::computer:
 
-<img src="https://raw.githubusercontent.com/giovanniramos/giovanniramos/main/gh-header-image.jpg?token=AADSDH4YP3JKOZHP7XD2HL3AKDIOA" alt="banner">
+<img src="https://raw.githubusercontent.com/giovanniramos/giovanniramos/main/gh-header-image.jpg" alt="banner">
 
-I'm a .NET programmer and I've been working as a professional in the field for over 10 years. I have a lot of experience with web development, focusing on mobile devices.
+I'm a .NET programmer and I've been working as a professional in the field for over 15 years. I have a lot of experience with web development, focusing on mobile devices.
 
 <h3>I've worked with</h3>
 
@@ -16,9 +16,9 @@ I'm a .NET programmer and I've been working as a professional in the field for o
 
 **Back-end**
 
-![C#](https://img.shields.io/badge/-c%23-333333?style=flat&logo=csharp)
-![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![C#](https://img.shields.io/badge/-Microsoft_.Net-333333?style=flat&logo=dotnet)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
