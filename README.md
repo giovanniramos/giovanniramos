@@ -51,4 +51,5 @@ My core expertise centers on the **Microsoft .NET ecosystem (C#)**, modern front
 
 I'm always open to discussing software architecture, new opportunities, or tech collaborations.
 
+[![Portfolio](https://img.shields.io/badge/🌐_Website-giovanniramos.github.io-8A2BE2?style=for-the-badge)](https://giovanniramos.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanniramos)
